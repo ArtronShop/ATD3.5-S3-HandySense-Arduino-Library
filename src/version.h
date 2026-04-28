@@ -1,0 +1,2 @@
+// AUTO CREATE, DO NOT MODIFY
+#define VERSION ""
